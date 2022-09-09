@@ -15,15 +15,5 @@
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     },
-    "mandante": {
-      "nome": "Portugal",
-      "forca": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/pt.png"
-    },
-    "visitante": {
-      "nome": "Itália",
-      "forca": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/it.png"
-    }
   }
 ]
