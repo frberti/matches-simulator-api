@@ -1,6 +1,6 @@
 [
   {
-    "descricao": "Eliminatórias da Copa 2022",
+    "descricao": "Eliminatórias Sulamericana da Copa 2022",
     "local": {
       "nome": "Maracanã",
       "imagem": "TODO"
@@ -14,6 +14,23 @@
       "nome": "Argentina",
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    }
+  },
+  {
+    "descricao": "Eliminatórias Européia da Copa 2022",
+    "local": {
+      "nome": "Allianz Arena",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "Portugal",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/pt.png"
+    },
+    "visitante": {
+      "nome": "Itália",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/it.png"
     }
   }
 ]
