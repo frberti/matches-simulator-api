@@ -32,5 +32,22 @@
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/it.png"
     }
-  }
+  },
+  ,
+  {
+    "descricao": "Eliminatórias Européia da Copa 2022",
+    "local": {
+      "nome": "Santiago Bernabeu",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "Espanha",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/es.png"
+    },
+    "visitante": {
+      "nome": "França",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/fr.png"
+    }
 ]
